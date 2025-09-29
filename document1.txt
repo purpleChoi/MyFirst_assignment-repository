@@ -1,3 +1,1 @@
-print("openSW is very fun!")
-print("Hello")
-print("===================)
+print("study is very fun!")
